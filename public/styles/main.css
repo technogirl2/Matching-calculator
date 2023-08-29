@@ -1,0 +1,70 @@
+
+
+body {
+  min-height: 100vh;
+  background: #eb6359;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  box-sizing: border-box;
+}
+
+
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 100px;
+  color: white;
+}
+
+
+
+h2{
+  font-family: "Cocogoose";
+  color: white;
+}
+
+
+.inputName {
+  display: flex;
+  align-items: center;
+  justify-self: center;
+  
+}
+
+input{
+  border-radius: 20%;
+  border-color: rgb(133, 42, 65);
+  border-width: 10px;
+  border-style: solid;
+
+
+}
+
+
+p{
+  padding: 50px;
+  display: inline;
+  font-family: "Cocogoose";
+  font-weight: 200px;
+  color: white;
+}
+
+.submitBt{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 200;
+
+}
+
+footer{
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
+
